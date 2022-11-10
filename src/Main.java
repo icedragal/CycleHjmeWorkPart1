@@ -13,7 +13,10 @@ public class Main {
             System.out.println(i);
         }
 
-
-
+        //Task 1.3
+        System.out.println("Задание 1.3");
+        for (int i = 0; i < 17; i = i + 2) {
+            System.out.println(i);
+        }
     }
 }
